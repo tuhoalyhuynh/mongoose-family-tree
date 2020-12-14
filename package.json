@@ -1,0 +1,24 @@
+{
+  "name": "mongoose-family-tree",
+  "version": "1.0.0",
+  "description": "Mongoose codealong",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tuhoalyhuynh/mongoose-family-tree.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tuhoalyhuynh/mongoose-family-tree/issues"
+  },
+  "homepage": "https://github.com/tuhoalyhuynh/mongoose-family-tree#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.11.7"
+  }
+}
